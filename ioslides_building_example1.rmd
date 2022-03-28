@@ -38,4 +38,14 @@ Some text
 - And yet more  
 - Foo  
 
+## An attempt at a two-column layout
+
+<div class="columns-2">
+  ![](image.jpg){width=100%}
+  “It is the absence of facts that frightens people: the gap you open, into which they pour their fears, fantasies, desires.”
+
+  - Bullet 1
+  - Bullet 2
+  - Bullet 3
+</div>
 
