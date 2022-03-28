@@ -1,0 +1,26 @@
+---
+title: "Markdown slides 1"
+author: JM
+date: 28/03/2022
+output: 
+    ioslides_presentation:
+        widescreen: true
+---
+
+# What is this?
+
+## This is the first slide?
+
+First slide text
+
+## This is the second slide?
+
+Second slide words
+
+# Really what _is_ this?
+
+It appears to be a differently formatted slide...
+
+## Another slide
+
+Some more words words words
