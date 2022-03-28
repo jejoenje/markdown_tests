@@ -5,6 +5,7 @@ date: 28/03/2022
 output: 
     ioslides_presentation:
         widescreen: true
+        smaller: true
 ---
 
 # What is this?
@@ -17,6 +18,10 @@ First slide text
 
 Second slide words
 
+- List 1
+- List 2
+- List 3
+
 # Really what _is_ this?
 
 It appears to be a differently formatted slide...
@@ -24,3 +29,13 @@ It appears to be a differently formatted slide...
 ## Another slide
 
 Some more words words words
+
+## Incremental slide test {.build}
+
+Some text
+
+- Some more text  
+- And yet more  
+- Foo  
+
+
