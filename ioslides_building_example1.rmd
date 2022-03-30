@@ -77,3 +77,24 @@ Some text
   “There's a feeling of power in reserve, a power that drives right through the bone, like the shiver you sense in the shaft of an axe when you take it into your hand. You can strike, or you can not strike, and if you choose to hold back the blow, you can still feel inside you the resonance of the omitted thing.”
 </div>
 
+## Attempt 4 layout
+
+:::: {style="display: flex;"}
+
+::: {style="width: 45%"}
+“But it is no use to justify yourself. It is no good to explain. It is weak to be anecdotal. It is wise to conceal the past even if there is nothing to conceal. A man's power is in the half-light, in the half-seen movements of his hand and the unguessed-at expression of his face. It is the absence of facts that frightens people: the gap you open, into which they pour their fears, fantasies, desires.”
+:::
+
+::: {style="width: 45%"}
+ “There's a feeling of power in reserve, a power that drives right through the bone, like the shiver you sense in the shaft of an axe when you take it into your hand. You can strike, or you can not strike, and if you choose to hold back the blow, you can still feel inside you the resonance of the omitted thing.”
+:::
+
+::::
+
+::::
+
+::: {style="width: 100%"}
+“Suppose within each book there is another book, and within every letter on every page another volume constantly unfolding; but these volumes take no space on the desk. Suppose knowledge could be reduced to a quintessence, held within a picture, a sign, held within a place which is no place. Suppose the human skull were to become capacious, spaces opening inside it, humming chambers like beehives.”
+:::
+
+::::
