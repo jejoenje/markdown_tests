@@ -98,3 +98,38 @@ Some text
 :::
 
 ::::
+
+## Attempt 5
+
+:::: {style="display: flex;"}
+
+::: {}
+
+“But it is no use to justify yourself. It is no good to explain. It is weak to be anecdotal. It is wise to conceal the past even if there is nothing to conceal. A man's power is in the half-light, in the half-seen movements of his hand and the unguessed-at expression of his face. It is the absence of facts that frightens people: the gap you open, into which they pour their fears, fantasies, desires.”
+
+:::
+
+::: {}
+
+ “There's a feeling of power in reserve, a power that drives right through the bone, like the shiver you sense in the shaft of an axe when you take it into your hand. You can strike, or you can not strike, and if you choose to hold back the blow, you can still feel inside you the resonance of the omitted thing.”
+
+:::
+
+::::
+
+## Attempt 6
+
+<div style="width: 100%">
+  Header text
+</div>
+
+<div style="float: left; width: 50%">
+  But it is no use to justify yourself. It is no good to explain. It is weak to be anecdotal. It is wise to conceal the past even if there is nothing to conceal. A man's power is in the half-light, in the half-seen movements of his hand and the unguessed-at expression of his face. It is the absence of facts that frightens people: the gap you open, into which they pour their fears, fantasies, desires.
+</div>
+<div style="float: right; width: 50%">
+  There's a feeling of power in reserve, a power that drives right through the bone, like the shiver you sense in the shaft of an axe when you take it into your hand. You can strike, or you can not strike, and if you choose to hold back the blow, you can still feel inside you the resonance of the omitted thing.
+</div>
+
+<div style="float: bottom; width: 100%">
+  Footer text
+</div>
