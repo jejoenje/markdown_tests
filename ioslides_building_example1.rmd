@@ -154,3 +154,29 @@ Some text
 
 </div>
 
+## Attempt 8 (building on 7)
+
+<div style="width: 100%; background-color: #d3d3d3;">
+  Truth can break the gates down, truth can howl in the street; unless truth is pleasing, personable and easy to like, she is condemned to stay whimpering at the back door.
+</div>
+
+<div style="display: flex;">
+
+<div style="width: 33%; background-color: #90ee90">
+  But it is no use to justify yourself. It is no good to explain. It is weak to be anecdotal. It is wise to conceal the past even if there is nothing to conceal. A man's power is in the half-light, in the half-seen movements of his hand and the unguessed-at expression of his face. It is the absence of facts that frightens people: the gap you open, into which they pour their fears, fantasies, desires.
+</div>
+
+<div style="width: 33%; background-color: #ffcccb">
+  There's a feeling of power in reserve, a power that drives right through the bone, like the shiver you sense in the shaft of an axe when you take it into your hand. You can strike, or you can not strike, and if you choose to hold back the blow, you can still feel inside you the resonance of the omitted thing.  
+</div>
+
+<div style="width: 33%; background-color: #d3d3d3; ">
+  Suppose within each book there is another book, and within every letter on every page another volume constantly unfolding; but these volumes take no space on the desk. Suppose knowledge could be reduced to a quintessence, held within a picture, a sign, held within a place which is no place. Suppose the human skull were to become capacious, spaces opening inside it, humming chambers like beehives.
+</div>
+
+</div>
+
+<div style="width: 100%; background-color: #d3d3d3;">
+  But the law is not an instrument to find out truth. It is there to create a fiction that will help us move past atrocious acts and face our future.
+</div>
+
